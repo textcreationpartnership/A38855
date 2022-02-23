@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Exact account of the Kings march to Ardee and of his forcing the Irish to abandon the pass of the River Boyne, and of what hapn'd in the passage, as also of the Irish army's retreat towards Dublin and of our army's pursuit of them : with an address presented to the King.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38855</idno>
+            <idno type="STC">Wing E3572</idno>
+            <idno type="STC">ESTC R30446</idno>
+            <idno type="EEBO-CITATION">11322663</idno>
+            <idno type="OCLC">ocm 11322663</idno>
+            <idno type="VID">47450</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38855)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47450)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1460:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Exact account of the Kings march to Ardee and of his forcing the Irish to abandon the pass of the River Boyne, and of what hapn'd in the passage, as also of the Irish army's retreat towards Dublin and of our army's pursuit of them : with an address presented to the King.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Baldwin ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Verso of sheet contains: The address presented to the King at Belfast in Ireland, on June the 16th, 1691.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Boyne, Battle of the, 1690.</term>
+               <term>Ireland --  History --  War of 1689-1691.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:47450:1" rendition="simple:additions"/>
+            <head>An EXACT ACCOUNT OF THE King's March to ARDEE, And of His forcing the <hi>Iriſh</hi> to Abandon the <hi>Paſs of the River Boyne.</hi> And of what hapn'd in the Paſſage, as alſo of the <hi>Iriſh</hi> Army's Retreat towards <hi>D<g ref="char:V">Ʋ</g>BLIN,</hi> and of our Army's Purſuit of them: WITH AN <hi>Addreſs preſented to the King.</hi>
+            </head>
+            <p>WHen the Iriſh were ſo eaſily forc'd from ſo ſtrong a Paſs as that be<g ref="char:EOLhyphen"/>twixt the <hi>Newry</hi> and <hi>Dundalk,</hi> which might have been maintain'd a long time by ſome hundreds of Reſolute Men againſt ſome Thouſands, there was but little Reaſon to believe they would have ſhow'd much Courage or Reſolution in keeping their Poſt at <hi>Ardee,</hi> where they gave it out they would ſtay and give the King Battel; the late King <hi>James</hi> being then with about Twenty thouſand Men. But no ſooner did the advanced Part of our Army appear, but they immediately abandon'd their Camp there, and fled to the other ſide of the Ri<g ref="char:EOLhyphen"/>ver <hi>Boyne,</hi> where our Army was to paſs about Two Miles above <hi>Drohedagh.</hi> There they were very advantageouſly Encamped, and ſeemed reſolved to do their utmoſt to hinder the Paſſage of our Army. King <hi>James</hi> had drawn together the Body of his Men, which conſiſted of about Fifteen thouſand Men to guard that Paſs, and went from Regiment to Regiment to harangue them into Courage to oppoſe us.</p>
+            <p>The River at that Place is not very broad, not above Piſtol ſhot over, nor deep, being fordable in ſeveral Places; and beſides, the Enemy had planted about Twelve or Fourteen Field Pieces to hinder our Paſſage.</p>
+            <p>On <hi>Tueſday</hi> laſt, being the Firſt of <hi>July,</hi> the King advanc'd with a detach'd Body of Horſe to view the Place, and the Enemy playing from the other ſide with their Can<g ref="char:EOLhyphen"/>non and ſmall Shot, three or four of ours happened to be kill'd, and a Cannon Bul<g ref="char:EOLhyphen"/>let of about ſix pound weight, happened to graſe on his Majeſties right Shoulder, and it was ſo providentially order'd, that it carried away a piece of his Coat, and touched only ſlightly on the Skin; which his Majeſty was ſo little concern'd at, that he call'd for another Coat, and continued ſome time after on Horsback: This was in the Morning, and after Breakfaſt his Majeſty having been on Horsback from Two a Clock that Morning. When his Majeſty came into his Tent, he was preſently dreſs'd, which he bore with great Courage, without any appearance of Vanity or Affectation. The ſame Bullet kill'd the Prince of <hi>D' Armeſtad</hi>'s Horſe. The next Morning he was on Horsback again. Count <hi>Schomberg</hi> having paſt the River in another place, with a con<g ref="char:EOLhyphen"/>ſiderable Detachment of Horſe and Dragoons, forced the Enemy from their Retrench<g ref="char:EOLhyphen"/>ment, and ſecured the Paſſage for the reſt of the Army, who immediately paſt it over. The Enemy is retired towards <hi>Dublin;</hi> and that Wing of our Army that firſt paſt the River, is gone in purſuit of them.</p>
+         </div>
+         <div type="text">
+            <pb facs="tcp:47450:2"/>
+            <head>The <hi>ADDRESS</hi> Preſented to the <hi>KING</hi> at <hi>Belfaſt</hi> in <hi>Ireland,</hi> on <hi>June</hi> the <hi>16th, 1690.</hi>
+            </head>
+            <head>
+               <hi>To the King's Moſt Excellent Majeſty;</hi> The Humble Addreſs of the <hi>Presbyterian Miniſters,</hi> and Others of their Perſwaſion in the <hi>North</hi> of <hi>Ireland.</hi>
+            </head>
+            <p>UPon the firſt Appearance of your Glorious Undertaking to Reſcue theſe Nations from Popery and Slavery, and afterwards the Settling your Majeſty on the Throne, with ſo ſmall Oppoſition, and ſo Univerſal Satisfaction; we judged our ſelves bound to Adore the moſt High God, for inſpiring you with ſuch Heroick Zeal, and ſignally bleſſing you with ſuch marvellous Succeſs, which we humbly repreſented to your Majeſty laſt Summer, at <hi>Hampton Court,</hi> by ſome of our Num<g ref="char:EOLhyphen"/>ber commiſſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nated by us, and which your Majeſty was graciouſly pleaſed to accept.</p>
+            <p>And now upon this preſent Enterprize in expo<g ref="char:EOLhyphen"/>ſing your Sacred Perſon for Reſcuing poor <hi>Ireland</hi> from its preſent Miſeries, when its delivery muſt be effected from no lower Hand; We cannot ſufficiently expreſs our Senſe of your Majeſties continued Heroick Zeal in proſecuting the ſame bleſſed Deſign, as well as to bleſs God who continueth to incline your Great Soul to ſuch an Undertaking: And our truſt in God is, that the ſame Divine Hand that overcame all Difficulties at your firſt Entring into <hi>England,</hi> will further appear upon your happy Arrival in <hi>Ireland,</hi> in giving Succeſs to your Arms, in Ruining the De<g ref="char:EOLhyphen"/>ſigns of Antichriſt, and Advancing the Intereſt of Chriſt in this Nation, and giving a further Luſtre to that Glory which the Soveraign God hath alrea<g ref="char:EOLhyphen"/>dy Crown'd your Majeſty withal.</p>
+            <p>Great Sir, as for our Principles in Conſcientious Loyalty, we moſt humbly offer, That it is generally owned, even by thoſe of other Perſwaſions, who have known us, that under the various Changes of Government, ſince the late Rebellion in <hi>Ireland,</hi> (wherein we have had our large ſh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re in Sufferings, as well on account of our Loyalty under Uſurpers, as of Non-conformity ſince) we have given undoubt<g ref="char:EOLhyphen"/>ed Proof of fixed Loyalty, which alſo his Majeſty King <hi>Charles</hi> the Second, was pleaſed to own by his Conferring upon us divers Teſtimonies of his Princely Favour.</p>
+            <p>And Sir, we cannot but with all humble Grati<g ref="char:EOLhyphen"/>tude acknowledge, That your Majesty hath been graciouſly pleaſed to augment the ſame Princely Fa<g ref="char:EOLhyphen"/>vour both as to the Subſiſtance of neceſſitous Miniſters in this poor waſted Country (not able to maintain them) and alſo that by your auſpicious Influence we have a Proſpect of our Religious Liberty, without ſome Snares that attended the ſame in the late Reigns; which Royal Bounty to us will engage thoſe of our Number now in <hi>Scotland</hi> to return, which will prove a ſpecial Means of more fully plant<g ref="char:EOLhyphen"/>ing this Province with ſuch Proteſtants as will be endeared to your Majeſties Government, and a Bul<g ref="char:EOLhyphen"/>wark againſt the <hi>Iriſh</hi> Papiſts. All which Favours we hope (through the help of God) to improve in a continued Loyalty to your Majeſty, and in ſuch a De<g ref="char:EOLhyphen"/>portment as ſhall not be juſtly Offenſive to any, but ſo far as is poſſible, will live peaceably with all Men.</p>
+            <p>May it pleaſe your Majeſty, we do in moſt hum<g ref="char:EOLhyphen"/>ble manner make bold to plead an Intereſt in your Royal Favour, not only as we are already (and when further incouraged will more appear) the moſt numerous Body in theſe Parts, maintaining the true Proteſtant Principles; but as we are moſt firmly de<g ref="char:EOLhyphen"/>voted to your Majeſties Service, the full Teſtimony whereof was given upon your Majeſties firſt Ap<g ref="char:EOLhyphen"/>pearing in this great Cauſe, both upon our early Ad<g ref="char:EOLhyphen"/>dreſſing your Majeſty <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pon your firſt Arrival in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and afterward by our publick Aſſerting your Majeſty to be our only lawful Soveraign, and by our putting our ſelves in all the readineſs for farther Service, that our Circumſtances (not having the Neceſſaries of War) would admit, whereof the De<g ref="char:EOLhyphen"/>fence of the City of <hi>London-Derry,</hi> and divers A<g ref="char:EOLhyphen"/>ctions in other Places, were Inſtances, and real De<g ref="char:EOLhyphen"/>monſtrations of our fixedneſs to your Majeſty, and will be in this preſent, as in all future Emergencies, and that not only for Conſcience ſake, as to our undoubt<g ref="char:EOLhyphen"/>ed Soveraign, but alſo from an indeared Affection to your Sacred Perſon, as the great Pattern of Pie<g ref="char:EOLhyphen"/>ty and Sobriety to all your Subjects, and the Lineal and true Succeſſor of that moſt Illuſtrious and Re<g ref="char:EOLhyphen"/>nouned Family, ever dignified by eſpouſing the Cauſe of Chriſt, which to us is above all.</p>
+            <p>That God would more and more multiply his Bleſſings upon your Majeſties Perſon, and the Perſon of the Queen your Royal Conſort, and make your Majeſty always the choice Inſtrument in his Hand, for ſupporting his Intereſt, and ſuppreſſing univerſal<g ref="char:EOLhyphen"/>ly abounding Profaneneſs, preſerving your Sacred Perſon in all Dangers, more and more enriching your Majeſty with Faith in God, and Courage to en<g ref="char:EOLhyphen"/>counter all Difficulties yet in your way; and that after a long and happy Reign on Earth, you may enjoy the Everlaſting Crown hereafter, is, and al<g ref="char:EOLhyphen"/>ways ſhall be the Prayers of</p>
+            <closer>
+               <signed>Your Majeſties moſt Humble, truly Faithful, and moſt Obedient Subjects and Servants</signed>
+            </closer>
+            <argument>
+               <p>
+                  <hi>This Addreſs was preſented to the King at</hi> Belfaſt <hi>in</hi> Ireland, <hi>the 16th of</hi> June, <hi>1690. by ma<g ref="char:EOLhyphen"/>ny Miniſters. His Majeſty received it graciouſly, and Ordered 1200</hi> l. <hi>to be paid them for their preſent Support.</hi>
+               </p>
+            </argument>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>R. Baldwin,</hi> near the <hi>Black Bull</hi> in the <hi>Old-Baily.</hi> 1690.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
